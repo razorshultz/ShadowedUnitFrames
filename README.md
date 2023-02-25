@@ -4,17 +4,18 @@ My WoW addons
 # Current Addons
 
 ## UI
-* Weakauras
+* Weakauras (with Masque + FlatSquares skin for it)
 * Shadowed Unit Frames
 * Cursortrail
 * Right Click Modifier
 * Opie
 
 ## Dungeon/Raid help
-* Bigwigs
-* Littlewigs
+* DBM
 * Details!
 * GTFO
+* Simulationcraft
+* Raider.io
 
 ## Quest Help
 * Btwquests
