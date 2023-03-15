@@ -10,7 +10,7 @@ My WoW addons
 * Cursortrail
 * Right click Modifier
 * OmniCC
-* OmniCD
+* Ability Team Tracker
 * Bartender4
 
 
