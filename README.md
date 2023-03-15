@@ -6,9 +6,12 @@ My WoW addons
 ## UI
 * Weakauras (with Masque + FlatSquares skin for it)
 * Shadowed Unit Frames
+* BuffOverlay (for use with SUF, for nice HoT positioning inside the frame etc)
 * Cursortrail
-* Right Click Modifier
-* Opie
+* Right click Modifier
+* OmniCC
+* Bartender4
+
 
 ## Dungeon/Raid help
 * DBM
