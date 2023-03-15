@@ -10,6 +10,7 @@ My WoW addons
 * Cursortrail
 * Right click Modifier
 * OmniCC
+* OmniCD
 * Bartender4
 
 
